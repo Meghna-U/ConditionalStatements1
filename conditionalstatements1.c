@@ -25,5 +25,5 @@ void main()
    {
      g='F';
    }
-   printf("Grade: %c",g);
+   printf("Grade %c",g);
 }
